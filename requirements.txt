@@ -1,0 +1,13 @@
+streamlit
+ultralytics
+opencv-python
+pymongo
+easyocr
+paddleocr
+paddlepaddle
+pandas
+plotly
+python-dotenv
+Pillow
+pytesseract
+imageio-ffmpeg
