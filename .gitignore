@@ -10,15 +10,18 @@ __pycache__/
 .env
 .streamlit/secrets.toml
 
-# YOLO model weights
-*.pt
-*.onnx
-
 # Temporary files
 *.tmp
+*.temp
 
 # OS files
 .DS_Store
 Thumbs.db
+
+# Training datasets / training runs
 helmet_dataset/
 runs/
+
+# NOTE:
+# Do NOT ignore *.pt
+# YOLO model files are required in GitHub.
